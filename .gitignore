@@ -5,6 +5,7 @@
 
 
 appsettings.json
+.cert
 # User-specific files
 *.rsuser
 *.suo
